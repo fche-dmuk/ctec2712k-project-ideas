@@ -1,2 +1,2 @@
 # project-ideas-A
-Project ideas for Team A
+Project ideas for Teams
